@@ -1,0 +1,17 @@
+Use,Target,amp_score,cq_min,cq_max,cq_confidence
+result_detected,B. atrophaeus,1.2,35,,0.8
+result_detected,Chlamydia trachomatis,1.2,35,,0.8
+result_detected,Gardnerella vaginalis,1.2,35,,0.8
+result_detected,Haemophilus ducreyi,1.2,35,,0.8
+result_detected,Mycoplasma genitalium,1.2,35,,0.8
+result_detected,Mycoplasma hominis,1.2,35,,0.8
+result_detected,Neisseria gonorrhoeae,1.2,35,,0.8
+result_detected,Treponema pallidum (Syphilis),1.2,35,,0.8
+result_detected,Trichomonas vaginalis (Protozoan Parasite),1.2,35,,0.8
+result_detected,Ureaplasma parvum,1.2,35,,0.8
+result_detected,Ureaplasma urealyticum,1.2,35,,0.8
+result_detected,HSV1,1.2,35,,0.8
+result_detected,HSV2,1.2,35,,0.8
+result_detected,HPV16,1.2,35,,0.8
+result_detected,HPV18,1.2,35,,0.8
+result_detected,HPV45,1.2,35,,0.8
