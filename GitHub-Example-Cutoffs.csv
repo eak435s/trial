@@ -1,0 +1,139 @@
+Raw Data Target Names,Beacon Output Name,Pathlight Output Name,Assay Type,Cutoff,amp_score,cq_confidence,Target Type
+A. baumannii,A. baumannii,A. baumannii,RPP,35,1.2,0.1,Target
+Adenovirus,Adenovirus,Adenovirus,RPP,34,1.2,0.1,Target
+B. pertussis,B. pertussis,B. pertussis,RPP,31,1.2,0.1,Target
+Bocavirus,Bocavirus,Bocavirus,RPP,35,1.2,0.1,Target
+C. pneumoniae,C. pneumoniae,C. pneumoniae,RPP,32,1.2,0.1,Target
+E. cloacae,E. cloacae,E. cloacae,RPP,36,1.2,0.1,Target
+EBV,EBV,EBV,RPP,31,1.2,0.1,Target
+Enterovirus,Enterovirus,Enterovirus,RPP,33,1.2,0.1,Target
+H. influenzae,H. influenzae,H. influenzae,RPP,34,1.2,0.1,Target
+HCoV 229E,HCoV 229E,HCoV 229E,RPP,34,1.2,0.1,Target
+HCoV HKU1,HCoV HKU1,HCoV HKU1,RPP,31,1.2,0.1,Target
+HCoV NL63,HCoV NL63,HCoV NL63,RPP,33,1.2,0.1,Target
+HCoV OC43,HCoV OC43,HCoV OC43,RPP,36,1.2,0.1,Target
+HMPV A,HMPV A,HMPV A,RPP,32,1.2,0.1,Target
+HMPV B,HMPV B,HMPV B,RPP,32,1.2,0.1,Target
+Influenza A,Influenza A,Influenza A,RPP,32,1.2,0.1,Target
+Influenza B,Influenza B,Influenza B,RPP,34,1.2,0.1,Target
+K. aerogenes,K. aerogenes,K. aerogenes,RPP,34,1.2,0.1,Target
+K. pneumoniae,K. pneumoniae,K. pneumoniae,RPP,33,1.2,0.1,Target
+L. pneumophila,L. pneumophila,L. pneumophila,RPP,31,1.2,0.1,Target
+M. catarrhalis,M. catarrhalis,M. catarrhalis,RPP,33,1.2,0.1,Target
+M. pneumoniae,M. pneumoniae,M. pneumoniae,RPP,33,1.2,0.1,Target
+P. aeruginosa,P. aeruginosa,P. aeruginosa,RPP,34,1.2,0.1,Target
+P. mirabilis,P. mirabilis,P. mirabilis,RPP,36,1.2,0.1,Target
+PIV 1,PIV 1,PIV 1,RPP,33,1.2,0.1,Target
+PIV 2,PIV 2,PIV 2,RPP,36,1.2,0.1,Target
+PIV 3,PIV 3,PIV 3,RPP,33,1.2,0.1,Target
+PIV 4,PIV 4,PIV 4,RPP,36,1.2,0.1,Target
+Rhinovirus,Rhinovirus,Rhinovirus,RPP,36,1.2,0.1,Target
+RSV,RSV,RSV,RPP,34,1.2,0.1,Target
+S. aureus,S. aureus,S. aureus,RPP,33,1.2,0.1,Target
+S. epidermidis,S. epidermidis,S. epidermidis,RPP,36,1.2,0.1,Target
+S. pneumoniae,S. pneumoniae,S. pneumoniae,RPP,31,1.2,0.1,Target
+S. pyogenes,S. pyogenes,S. pyogenes,RPP,32,1.2,0.1,Target
+RP,RP,RP,RPP,36,1.2,0.1,Internal Control
+RT Control,RT Control,RT Control,RPP,36,1.2,0.1,Internal Control
+PC VIC,PC VIC,PC VIC,RPP,36,1.2,0.1,Pos Control
+PC FAM,PC FAM,PC FAM,RPP,36,1.2,0.1,Pos Control
+NC VIC,NC VIC,NC VIC,RPP,36,1.2,0.1,Neg Control
+NC FAM,NC FAM,NC FAM,RPP,36,1.2,0.1,Neg Control
+mecA,mecA,mecA,Not Included,999,1.2,0.1,Target
+B. atrophaeus,B. atrophaeus,B. atrophaeus,UTI,35,1.2,0.8,Internal Control
+Acinetobacter baumannii,Acinetobacter baumannii,Acinetobacter baumannii,UTI,35,1.2,0.8,Target
+"Citrobacter species (C. freundii, C. koseri)","Citrobacter species (C. freundii, C. koseri)","Citrobacter species (C. freundii, C. koseri)",UTI,35,1.2,0.8,Target
+"Enterobacter species (K. aerogenes, K. cloacae)","Enterobacter species (K. aerogenes, K. cloacae)","Enterobacter species (K. aerogenes, K. cloacae)",UTI,35,1.2,0.8,Target
+"Enterococcus species (E. faecalis, E. faecium)","Enterococcus species (E. faecalis, E. faecium)","Enterococcus species (E. faecalis, E. faecium)",UTI,35,1.2,0.8,Target
+Escherichia coli,Escherichia coli,Escherichia coli,UTI,35,1.2,0.8,Target
+Klebsiella oxytoca,Klebsiella oxytoca,Klebsiella oxytoca,UTI,35,1.2,0.8,Target
+Klebsiella pneumoniae,Klebsiella pneumoniae,Klebsiella pneumoniae,UTI,35,1.2,0.8,Target
+Morganella morganii,Morganella morganii,Morganella morganii,UTI,35,1.2,0.8,Target
+Proteus mirabilis,Proteus mirabilis,Proteus mirabilis,UTI,35,1.2,0.8,Target
+Proteus vulgaris,Proteus vulgaris,Proteus vulgaris,UTI,35,1.2,0.8,Target
+Pseudomonas aeruginosa,Pseudomonas aeruginosa,Pseudomonas aeruginosa,UTI,35,1.2,0.8,Target
+Staphylococcus saprophyticus,Staphylococcus saprophyticus,Staphylococcus saprophyticus,UTI,35,1.2,0.8,Target
+Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,UTI,35,1.2,0.8,Target
+"Candida species (C. albicans, C. glabrata)","Candida species (C. albicans, C. glabrata)","Candida species (C. albicans, C. glabrata)",UTI,35,1.2,0.8,Target
+blaKPC,blaKPC,blaKPC,UTI,35,1.2,0.8,Target
+"blaVIM, blaNDM","blaVIM, blaNDM","blaVIM, blaNDM",UTI,35,1.2,0.8,Target
+blaCTX-M,blaCTX-M,blaCTX-M,UTI,35,1.2,0.8,Target
+mecA,mecA,mecA,UTI,35,1.2,0.8,Target
+"ermA, ermB, ermC","ermA, ermB, ermC","ermA, ermB, ermC",UTI,35,1.2,0.8,Target
+qnrA,qnrA,qnrA,UTI,35,1.2,0.8,Target
+tetM,tetM,tetM,UTI,35,1.2,0.8,Target
+"VanA, VanB","VanA, VanB","VanA, VanB",UTI,35,1.2,0.8,Target
+blaOXA,blaOXA,blaOXA,UTI,35,1.2,0.8,Target
+N1,SARS-CoV-2,N1,CovidNow,40,0.01,0.01,Target
+RNaseP,RNaseP,RNaseP,CovidNow,38,0.01,0.01,Internal Control
+B. atrophaeus,B. atrophaeus,B. atrophaeus,FairbanksUTI,38,0.01,0.01,Internal Control
+Bacteroides fragilis,Bacteroides fragilis,Bacteroides fragilis,FairbanksUTI,35,1.2,0.8,Target
+Citrobacter braakii/freundii/koseri,Citrobacter braakii/freundii/koseri,Citrobacter braakii/freundii/koseri,FairbanksUTI,35,1.2,0.8,Target
+Enterobacter aerogenes/cloacae,Enterobacter aerogenes/cloacae,Enterobacter aerogenes/cloacae,FairbanksUTI,35,1.2,0.8,Target
+Enterococcus faecalis/faecium,Enterococcus faecalis/faecium,Enterococcus faecalis/faecium,FairbanksUTI,35,1.2,0.8,Target
+Escherichia coli,Escherichia coli,Escherichia coli,FairbanksUTI,35,1.2,0.8,Target
+Klebsiella pneumoniae/oxytoca/michiganensis,Klebsiella pneumoniae/oxytoca/michiganensis,Klebsiella pneumoniae/oxytoca/michiganensis,FairbanksUTI,35,1.2,0.8,Target
+Morganella morganii,Morganella morganii,Morganella morganii,FairbanksUTI,35,1.2,0.8,Target
+Proteus mirabilis,Proteus mirabilis,Proteus mirabilis,FairbanksUTI,35,1.2,0.8,Target
+Pseudomonas aeruginosa,Pseudomonas aeruginosa,Pseudomonas aeruginosa,FairbanksUTI,35,1.2,0.8,Target
+Serratia marcescens,Serratia marcescens,Serratia marcescens,FairbanksUTI,35,1.2,0.8,Target
+Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,FairbanksUTI,35,1.2,0.8,Target
+Candida albicans/glabrata/tropicalis/krusei,Candida albicans/glabrata/tropicalis/krusei,Candida albicans/glabrata/tropicalis/krusei,FairbanksUTI,35,1.2,0.8,Target
+Mycoplasma hominis,Mycoplasma hominis,Mycoplasma hominis,FairbanksUTI,35,1.2,0.8,Target
+Mycoplasma genitalium,Mycoplasma genitalium,Mycoplasma genitalium,FairbanksUTI,35,1.2,0.8,Target
+Streptococcus pyogenes (Group A),Streptococcus pyogenes (Group A),Streptococcus pyogenes (Group A),FairbanksUTI,35,1.2,0.8,Target
+"Class A B-lactamase; CTX-M-Group 1, Class A B-lactamase; blaKPC, Class B metallo-B-lactamase; blaNDM","Class A B-lactamase; CTX-M-Group 1, Class A B-lactamase; blaKPC, Class B metallo-B-lactamase; blaNDM","Class A B-lactamase; CTX-M-Group 1, Class A B-lactamase; blaKPC, Class B metallo-B-lactamase; blaNDM",FairbanksUTI,35,1.2,0.8,Target
+blaCTX-M (ESBL - cephalosporins),blaCTX-M (ESBL - cephalosporins),blaCTX-M (ESBL - cephalosporins),FairbanksUTI,35,1.2,0.8,Target
+Fluoroquinolones,Fluoroquinolones,Fluoroquinolones,FairbanksUTI,35,1.2,0.8,Target
+Sulfonamides,Sulfonamides,Sulfonamides,FairbanksUTI,35,1.2,0.8,Target
+Trimethoprim,Trimethoprim,Trimethoprim,FairbanksUTI,35,1.2,0.8,Target
+Methicillin/Oxacillin (MecA),Methicillin/Oxacillin (MecA),Methicillin/Oxacillin (MecA),FairbanksUTI,35,1.2,0.8,Target
+Tetracycline (TetM),Tetracycline (TetM),Tetracycline (TetM),FairbanksUTI,35,1.2,0.8,Target
+"ErmABC (ermA, ermB, ermC)","ErmABC (ermA, ermB, ermC)","ErmABC (ermA, ermB, ermC)",FairbanksUTI,35,1.2,0.8,Target
+B. atrophaeus-QC,B. atrophaeus-QC,B. atrophaeus-QC,FairbanksUTI,39,22,0.1,Internal Control
+"Adenovirus 1 of 2 (B, C, D)","Adenovirus 1 of 2 (B, C, D)","Adenovirus 1 of 2 (B, C, D)",RPP-Varsha,26,1.1,0.7,Target
+"Adenovirus 2 of 2 (A, B, E , F)","Adenovirus 2 of 2 (A, B, E , F)","Adenovirus 2 of 2 (A, B, E , F)",RPP-Varsha,26,1.1,0.7,Target
+B. atrophaeus,B. atrophaeus,B. atrophaeus,RPP-Varsha,35,1.1,0.7,Internal Control
+Bocavirus,Bocavirus,Bocavirus,RPP-Varsha,27,1.1,0.7,Target
+"Bordetella species (B. bronchiseptica, B. parapertussis, B. pertussis)","Bordetella species (B. bronchiseptica, B. parapertussis, B. pertussis)","Bordetella species (B. bronchiseptica, B. parapertussis, B. pertussis)",RPP-Varsha,26,1.1,0.7,Target
+Chlamydia pneumoniae,Chlamydia pneumoniae,Chlamydia pneumoniae,RPP-Varsha,27,1.1,0.7,Target
+"Coronavirus species (229E, HKU1, CNL63, OC43)","Coronavirus species (229E, HKU1, CNL63, OC43)","Coronavirus species (229E, HKU1, CNL63, OC43)",RPP-Varsha,26,1.1,0.7,Target
+Enterovirus D68,Enterovirus D68,Enterovirus D68,RPP-Varsha,26,1.1,0.7,Target
+Haemophilus influenzae,Haemophilus influenzae,Haemophilus influenzae,RPP-Varsha,28,1.1,0.7,Target
+Influenza A,Influenza A,Influenza A,RPP-Varsha,27,1.1,0.7,Target
+Influenza B,Influenza B,Influenza B,RPP-Varsha,27,1.1,0.7,Target
+Klebsiella pneumoniae,Klebsiella pneumoniae,Klebsiella pneumoniae,RPP-Varsha,26,1.1,0.7,Target
+Legionella pneumophila,Legionella pneumophila,Legionella pneumophila,RPP-Varsha,27,1.1,0.7,Target
+Metapneumovirus,Metapneumovirus,Metapneumovirus,RPP-Varsha,28,1.1,0.7,Target
+Mycoplasma pneumoniae,Mycoplasma pneumoniae,Mycoplasma pneumoniae,RPP-Varsha,26,1.1,0.7,Target
+"Parainfluenza virus (1, 2, 3)","Parainfluenza virus (1, 2, 3)","Parainfluenza virus (1, 2, 3)",RPP-Varsha,27,1.1,0.7,Target
+Parainfluenza virus 4,Parainfluenza virus 4,Parainfluenza virus 4,RPP-Varsha,27,1.1,0.7,Target
+Respiratory Syncytial Virus A,Respiratory Syncytial Virus A,Respiratory Syncytial Virus A,RPP-Varsha,27,1.1,0.7,Target
+Respiratory Syncytial Virus B,Respiratory Syncytial Virus B,Respiratory Syncytial Virus B,RPP-Varsha,27,1.1,0.7,Target
+Rhinovirus 1 of 2,Rhinovirus 1 of 2,Rhinovirus 1 of 2,RPP-Varsha,26,1.1,0.7,Target
+Rhinovirus 2 of 2,Rhinovirus 2 of 2,Rhinovirus 2 of 2,RPP-Varsha,26,1.1,0.7,Target
+Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,RPP-Varsha,26,1.1,0.7,Target
+Streptococcus pneumoniae,Streptococcus pneumoniae,Streptococcus pneumoniae,RPP-Varsha,27,1.1,0.7,Target
+"Adenovirus 1 of 2 (B, C, D)-QC","Adenovirus 1 of 2 (B, C, D)","Adenovirus 1 of 2 (B, C, D)",RPP-Varsha,30,1.1,0.7,Target
+"Adenovirus 2 of 2 (A, B, E , F)-QC","Adenovirus 2 of 2 (A, B, E , F)","Adenovirus 2 of 2 (A, B, E , F)",RPP-Varsha,29,1.1,0.7,Target
+B. atrophaeus-QC,B. atrophaeus,B. atrophaeus,RPP-Varsha,35,1.1,0.7,Internal Control
+Bocavirus-QC,Bocavirus,Bocavirus,RPP-Varsha,29,1.1,0.7,Target
+"Bordetella species (B. bronchiseptica, B. parapertussis, B. pertussis)-QC","Bordetella species (B. bronchiseptica, B. parapertussis, B. pertussis)","Bordetella species (B. bronchiseptica, B. parapertussis, B. pertussis)",RPP-Varsha,28,1.1,0.7,Target
+Chlamydia pneumoniae-QC,Chlamydia pneumoniae,Chlamydia pneumoniae,RPP-Varsha,30,1.1,0.7,Target
+"Coronavirus species (229E, HKU1, CNL63, OC43)-QC","Coronavirus species (229E, HKU1, CNL63, OC43)","Coronavirus species (229E, HKU1, CNL63, OC43)",RPP-Varsha,29,1.1,0.7,Target
+Enterovirus D68-QC,Enterovirus D68,Enterovirus D68,RPP-Varsha,29,1.1,0.7,Target
+Haemophilus influenzae-QC,Haemophilus influenzae,Haemophilus influenzae,RPP-Varsha,30,1.1,0.7,Target
+Influenza A-QC,Influenza A,Influenza A,RPP-Varsha,31,1.1,0.7,Target
+Influenza B-QC,Influenza B,Influenza B,RPP-Varsha,29,1.1,0.7,Target
+Klebsiella pneumoniae-QC,Klebsiella pneumoniae,Klebsiella pneumoniae,RPP-Varsha,28,1.1,0.7,Target
+Legionella pneumophila-QC,Legionella pneumophila,Legionella pneumophila,RPP-Varsha,31,1.1,0.7,Target
+Metapneumovirus-QC,Metapneumovirus,Metapneumovirus,RPP-Varsha,32,1.1,0.7,Target
+Mycoplasma pneumoniae-QC,Mycoplasma pneumoniae,Mycoplasma pneumoniae,RPP-Varsha,29,1.1,0.7,Target
+"Parainfluenza virus (1, 2, 3)-QC","Parainfluenza virus (1, 2, 3)","Parainfluenza virus (1, 2, 3)",RPP-Varsha,31,1.1,0.7,Target
+Parainfluenza virus 4-QC,Parainfluenza virus 4,Parainfluenza virus 4,RPP-Varsha,30,1.1,0.7,Target
+Respiratory Syncytial Virus A-QC,Respiratory Syncytial Virus A,Respiratory Syncytial Virus A,RPP-Varsha,30,1.1,0.7,Target
+Respiratory Syncytial Virus B-QC,Respiratory Syncytial Virus B,Respiratory Syncytial Virus B,RPP-Varsha,30,1.1,0.7,Target
+Rhinovirus 1 of 2-QC,Rhinovirus 1 of 2,Rhinovirus 1 of 2,RPP-Varsha,27,1.1,0.7,Target
+Rhinovirus 2 of 2-QC,Rhinovirus 2 of 2,Rhinovirus 2 of 2,RPP-Varsha,28,1.1,0.7,Target
+Staphylococcus aureus-QC,Staphylococcus aureus,Staphylococcus aureus,RPP-Varsha,28,1.1,0.7,Target
+Streptococcus pneumoniae-QC,Streptococcus pneumoniae,Streptococcus pneumoniae,RPP-Varsha,30,1.1,0.7,Target
